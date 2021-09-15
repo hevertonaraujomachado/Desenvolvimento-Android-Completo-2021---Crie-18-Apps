@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Netflix</string>
+    <string name="house_of_cards">House of Cards</string>
+    <string name="menu_mensagem">Menu_Mensagem</string>
+    <string name="Menu_Mensagem">Mensagem</string>
+    <string name="Menu_Volume">Volume</string>
+    <string name="Menu_Avaliação">Avaliação</string>
+    <string name="Menu_episódio">episódio</string>
+</resources>
